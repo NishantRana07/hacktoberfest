@@ -1,7 +1,7 @@
 #### Name: Nishant Rana
  - Place: Dehradun, India
  - Bio: Software engineer. 3rd year of engineering.
- - GitHub: [Vallenain](https://github.com/NishantRana07)
+ - GitHub: [Nishant Rana](https://github.com/NishantRana07)
    
 #### Name: Vallenain
  - Place: Lyon, France
